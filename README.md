@@ -2,7 +2,7 @@
 
 # ⚡ OxedoSkill
 
-### Highlord's fullstack engineering playbook — as a Claude Code Skill
+### fullstack engineering playbook — as a Claude Code Skill
 
 *One skill that carries the **discipline**, the **stack patterns**, and the **polyglot reach** —
 so every feature gets built the same, high-quality way.*
